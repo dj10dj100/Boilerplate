@@ -1,4 +1,4 @@
-## Emerge HTML/CSS Framework.
+## Dans HTML/CSS Framework Used @ http://www.emerge.co.uk
 
 This framework is designed to be used as a quick tool to start the development of a web project. 
 Folders and base files are included for speed.
