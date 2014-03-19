@@ -1,0 +1,10 @@
+/* Logos */
+
+$sprite_bg : url(../img/sprite.png);
+
+.sprite{
+	background-image: $sprite_bg;
+}
+.example-sprite{
+	background-position:1px 1px;
+}

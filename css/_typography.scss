@@ -1,0 +1,46 @@
+$font_stack : 'Neue Helvetica W01', helvetica, arial, sans-serif;
+
+h1, .fakeh1 {
+	font-family: $font_stack;
+	font-size: 36px;
+	line-height: 38px;
+	font-weight: 100;
+}
+
+h2, .fakeh2 {
+	font-family: $font_stack;
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: 100;
+	margin: 10px 0 15px 0;
+}
+
+h3, .fakeh3 {
+	font-family: $font_stack;
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: 500;
+}
+
+h4, .fakeh4 {
+	font-family: $font_stack;
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: 100;
+	margin: 0 0 15px 0;
+}
+
+h5, .fakeh5 {
+	font-family: $font_stack;
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: 500;
+	margin: 0 0 15px 0;
+}
+
+h6, .fakeh6 {
+	font-family: $font_stack;
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: 400;
+}
